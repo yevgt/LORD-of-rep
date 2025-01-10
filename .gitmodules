@@ -4,3 +4,6 @@
 [submodule "git-branch2"]
 	path = git-branch2
 	url = git@github.com:yevgt/git-branch2.git
+[submodule "classwork"]
+	path = classwork
+	url = https://github.com/yevgt/classwork.git
