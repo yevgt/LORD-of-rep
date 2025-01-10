@@ -1,0 +1,6 @@
+[submodule "ich-practice-"]
+	path = ich-practice-
+	url = git@github.com:yevgt/ich-practice-.git
+[submodule "git-branch2"]
+	path = git-branch2
+	url = git@github.com:yevgt/git-branch2.git
